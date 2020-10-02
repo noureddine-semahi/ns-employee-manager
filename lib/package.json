@@ -1,7 +1,6 @@
 {
   "name": "lib",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -10,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "console.table": "^0.10.0",
     "i": "^0.3.6",
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1"
-  }
+  },
+  "description": ""
 }
