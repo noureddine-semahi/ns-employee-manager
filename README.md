@@ -71,9 +71,6 @@ This main menu holds all the functionality of the app.  It is here that you will
 * lib folder - contains all my javascript files that are referenced by index.js and connection.js
 * Public Folder
     - Assets Folder
-        - Images Folder
-            - main_menu.png - image used in README.md
-
 
 ## Known Issues With Code
 *  - The index.js file is incredibly cumbersome to look at and would be beneficial to clean up and utilize SQL_queries.js more
