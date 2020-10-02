@@ -80,5 +80,6 @@ This main menu holds all the functionality of the app.  It is here that you will
     - Currently when deleting a role or a department the user is not told if their are employees in existance with that role or in that department.  This is a problem because when they delete that role or department the employees are deleted too.
     - View employees by manager will not always display proper manager if there are two managers with same name.  I ran out of time to duplicate the update check functionality to this function.
 
+## Demo Video:
 To view the demo video, you can follow this link:
- -[ScreenCastify Video](https://drive.google.com/file/d/1J0cCFALBpmJjFc_pKDVIRvTn8VPXrGKR/view)
+ -[ScreenCastify Video](https://drive.google.com/file/d/1WM-w_TjWGL6eUCj8RASWDNu9fAwp1wKj/view)
